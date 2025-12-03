@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm OMKARREDDY</h1>
+<h1 align="center">HELLO WORLD THIS IS OMKARREDDY</h1>
 <h3 align="center">EAGER TO LEARN A NEW SKILL INTO MY BRAIN BOX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarreddy-123&label=Profile%20views&color=0e75b6&style=flat" alt="omkarreddy-123" /> </p>
